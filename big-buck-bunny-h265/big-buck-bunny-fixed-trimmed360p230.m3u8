@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:6,
+big-buck-bunny-fixed-trimmed360p230_00001.ts
+#EXTINF:6,
+big-buck-bunny-fixed-trimmed360p230_00002.ts
+#EXTINF:6,
+big-buck-bunny-fixed-trimmed360p230_00003.ts
+#EXTINF:6,
+big-buck-bunny-fixed-trimmed360p230_00004.ts
+#EXTINF:2,
+big-buck-bunny-fixed-trimmed360p230_00005.ts
+#EXT-X-ENDLIST
